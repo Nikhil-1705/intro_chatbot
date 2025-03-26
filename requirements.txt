@@ -1,6 +1,4 @@
 openai
-pydub 
-simpleaudio
 fastapi 
 uvicorn 
 python-dotenv 
